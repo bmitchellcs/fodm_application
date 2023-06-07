@@ -13,6 +13,8 @@ Please reference the table contained in 'normalization.csv'. Please use https://
 
 Please create a streamlit app (https://streamlit.io/) which will allow the user to answer the question, 'For a given crypto asset, what is the relationship between it's price performance and the performance of the crypto market? How has that changed over time? Begin with beta (https://www.investopedia.com/terms/b/beta.asp)' Let 'crypto market' refer to the total USD value of all crypto assets in the dataset for a given day.
 
+Find your underlying dataset in the streamlit_app folder.
+
 
 ## Submission
 
